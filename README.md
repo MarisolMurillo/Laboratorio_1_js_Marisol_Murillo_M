@@ -3,14 +3,15 @@
 ## JackBlack
 
 El siguiente repositorio tiene como finalidad mostrar todo el proceso que se realizó para la elaboración de un juego llamado "BlackJack".
-En este existe una carpeta "assest" y esta constituida por una carpeta llamada assest la cual contiene la estructura de elaboración del proyecto y un archivo
-nombrado index.html en el cual encontraras el proyecto ya listo.
+En este existe una carpeta "src" y esta constituida por una carpeta llamada assest la cual contiene la estructura de elaboración del proyecto en JavaScript y un archivo nombrado index.html en el cual encontraras el proyecto ya listo.
 El juego está constituido de la siguiente manera: existe un usuario llamado "Marisol" el cual es el usuario que desea jugar 
 y otro llamado Mujer Maravilla quien es la computadora.
 El juego empieza cuando el usuario quien es la primera persona que juega oprime el botón "Nuevo juego" luego pide las cartas 
 hasta donde quiera llegar con su puntaje luego le da en detener.
 Al darle esta opción el juego para el usuario "marisol" se detiene y continua el turno de la computadora una vez 
 listo se evalúan los puntajes de las cartas y el que esté más próximo sin pasarse al número "21" es quien gana.
+
+A continuación abjunto en imagenes de muestras evidencias de como se desarrollo el juego y como es el resultado.
 
 
 ## Evidencia JavaScrip
