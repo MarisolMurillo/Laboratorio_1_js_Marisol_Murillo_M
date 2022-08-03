@@ -11,7 +11,7 @@ hasta donde quiera llegar con su puntaje luego le da en detener.
 Al darle esta opción el juego para el usuario "marisol" se detiene y continua el turno de la computadora una vez 
 listo se evalúan los puntajes de las cartas y el que esté más próximo sin pasarse al número "21" es quien gana.
 
-A continuación abjunto en imagenes de muestras evidencias de como se desarrollo el juego y como es el resultado.
+A continuación adjunto en imagenes de muestras evidencias de como se desarrollo el juego y como es el resultado.
 
 
 ## Evidencia JavaScrip
